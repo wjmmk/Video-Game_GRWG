@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  BASE_URL: 'https://rawg-video-games-database.p.rapidapi.com'
+  BASE_URL: 'https://rawg-video-games-database.p.rapidapi.com',
+  KEY_ROWG: '7f4071575ea746c88760ded8ebac3eb8'
 };
 
 /*
