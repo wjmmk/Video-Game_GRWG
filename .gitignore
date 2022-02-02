@@ -12,10 +12,10 @@
 
 # Angular Environment Variables
 environment.ts
-
+environment.prod.ts
 
 # Folders
-/environments
+/src/environments
 
 # profiling files
 chrome-profiler-events*.json
